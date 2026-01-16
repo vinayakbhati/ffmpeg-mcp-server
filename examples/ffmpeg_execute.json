@@ -1,0 +1,7 @@
+{
+  "name": "ffmpeg.execute",
+  "arguments": {
+    "command": ["-version"],
+    "timeout": 10
+  }
+}
